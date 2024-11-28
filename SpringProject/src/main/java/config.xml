@@ -4,7 +4,9 @@
 	xsi:schemaLocation="http://www.springframework.org/schema/beans
 		https://www.springframework.org/schema/beans/spring-beans.xsd">
 		<bean id="Student" class="org.sample.Student">
-		
+		<property name="name" value="Swapnil"></property>
+		<property name="ph" value="9581015124"></property>
+		<property name="id" value="172"></property>
 		</bean>
 		
 </beans>
